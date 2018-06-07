@@ -2,7 +2,5 @@
 # passed into it and defaults to meat.
 
 def meal_choice(vegan = "meat")
-  puts "No #{vegan}"
+  veagn
 end
-
-meal_choice
